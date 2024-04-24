@@ -61,10 +61,15 @@ print(result,unans)
 ```
 ## Output
 TRACER
+
 ![Screenshot 2024-04-24 053041 TRACER](https://github.com/shivsujan/4.Execution_of_NetworkCommends/assets/145633245/0f633a5d-6c7d-4ac1-a2dc-3e0d2b0eb4cc)
+
 CLIENT
+
 ![Screenshot 2024-04-24 052835 CLIENT](https://github.com/shivsujan/4.Execution_of_NetworkCommends/assets/145633245/8cc07e00-3d44-4e72-8ce4-2eb1b6c4998f)
+
 SERVER
+
 ![Screenshot 2024-04-24 052846 SERVER](https://github.com/shivsujan/4.Execution_of_NetworkCommends/assets/145633245/293a6b14-d07e-48ab-9bbe-21b97008f108)
 
 ## Result
